@@ -5,7 +5,7 @@
 I build performant web apps, game systems, and tooling that ship. Currently at WhatPeak GmbH and leading an indie game team.
 
 * [![Website](https://img.shields.io/badge/Website-alpkurt.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alpkurt.com)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-alp--kurt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alp-kurt/)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-alp--kurt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/alp-kurt/)
 * [![Email](https://img.shields.io/badge/Email-krtalp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krtalp@gmail.com)
 
 ---
@@ -64,8 +64,4 @@ I build performant web apps, game systems, and tooling that ship. Currently at W
 
 ## Collaboration
 
-If you’re building a product or game and want a partner who ships clean, scalable systems, let’s talk.
-
-- Email: krtalp@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alp-kurt/
-- Website: https://alpkurt.com
+If you’re building a product or game and want a partner who ships clean, scalable systems, let’s talk. The best way to reach me is via the links at the top.

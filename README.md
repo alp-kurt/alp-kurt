@@ -1,67 +1,81 @@
 # Alp Kurt
 
-**Senior Software Developer · Web + Games · Berlin**
+> Technical Game Designer building game systems, prototypes, and internal tools with Unity, C#, JavaScript, TypeScript, and AI-assisted workflows.
 
-I build performant web apps, game systems, and tooling that ship. Currently at WhatPeak GmbH and leading an indie game team.
+<p align="center">
+  <a href="https://alpkurt.com">
+    <img src="https://img.shields.io/badge/Website-alpkurt.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/alp-kurt/">
+    <img src="https://img.shields.io/badge/LinkedIn-alp--kurt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:krtalp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-krtalp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-* [![Website](https://img.shields.io/badge/Website-alpkurt.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alpkurt.com)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-alp--kurt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/alp-kurt/)
-* [![Email](https://img.shields.io/badge/Email-krtalp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krtalp@gmail.com)
-
----
-
-## Focus
-
-- Scalable frontend & full-stack web products
-- Game systems, tools, and optimization
-- Clean architecture, SOLID, and production reliability
-
-## Current Work
-
-- **Senior Software Developer** at **WhatPeak GmbH**
-- **Indie Game Lead** building a new title + internal tooling
+<p align="center">
+  <strong>Berlin</strong> · Technical Game Design · Game Systems · Unity · AI Workflows
+</p>
 
 ---
 
-## Featured Portfolios
+## About
 
-- 🎮 Game Development: https://gamedeveloper.alpkurt.com
-- 🌐 Web Development: https://webdeveloper.alpkurt.com
-- 🖌️ Creative: https://www.behance.net/alp-kurt
-- 🎮 Self‑Published Games: https://pabron.itch.io
-- 🏷️ Publisher Brand: https://rasitgr.com
+I work at the intersection of **game design** and **software development**, with a focus on building systems that are fast to prototype, easy to iterate on, and solid enough to scale.
+
+Currently: **Technical Game Designer at [SOFTGAMES](https://softgames.com)**.
+
+---
+
+## What I Focus On
+
+- Technical game design
+- Game systems and mechanics
+- Gameplay prototyping
+- Live ops and balancing
+- AI-assisted development workflows
+- Clean architecture and scalable systems
+
+---
+
+## Portfolio Links
+
+| Area | Link |
+| --- | --- |
+| Game Development | [gamedeveloper.alpkurt.com](https://gamedeveloper.alpkurt.com) |
+| Web Development | [webdeveloper.alpkurt.com](https://webdeveloper.alpkurt.com) |
+| Self-Published Games | [pabron.itch.io](https://pabron.itch.io) |
+| Creative Work | [behance.net/alp-kurt](https://www.behance.net/alp-kurt) |
 
 ---
 
 ## Stack Snapshot
 
-**Game Dev**
+### Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![DOTween](https://img.shields.io/badge/DOTween-1E1E1E?style=for-the-badge&logo=unity&logoColor=white)
-![Zenject](https://img.shields.io/badge/Zenject-1E1E1E?style=for-the-badge&logo=unity&logoColor=white)
+![DOTween](https://img.shields.io/badge/DOTween-1E1E1E?style=for-the-badge)
+![PixiJS](https://img.shields.io/badge/PixiJS-EF2D5E?style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge)
+![Zenject](https://img.shields.io/badge/Zenject-1E1E1E?style=for-the-badge)
 
-**Web**
+### Web Development
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Cloud & DevOps**
+### AI and Workflow
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-111111?style=for-the-badge)
+![Rapid Prototyping](https://img.shields.io/badge/Rapid_Prototyping-3A3A3A?style=for-the-badge)
 
 ---
 
-## Collaboration
+## Open To
 
-If you’re building a product or game and want a partner who ships clean, scalable systems, let’s talk. The best way to reach me is via the links at the top.
+I’m interested in collaborations around **game systems**, **gameplay prototypes**, and **development tooling**.
+
+Best way to reach me: **[LinkedIn](https://www.linkedin.com/in/alp-kurt/)** or **[email](mailto:krtalp@gmail.com)**.
